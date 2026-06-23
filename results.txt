@@ -1,0 +1,5 @@
+Computer Name: DESKTOP-JKAAGSA
+Date of Test: 2026-06-23 14:17:31
+Bubble Sort Time: 4.273457 seconds
+Quick Sort Time: 0.010057 seconds
+
