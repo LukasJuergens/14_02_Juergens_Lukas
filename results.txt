@@ -3,3 +3,8 @@ Date of Test: 2026-06-23 14:17:31
 Bubble Sort Time: 4.273457 seconds
 Quick Sort Time: 0.010057 seconds
 
+Computer Name: LukasJuergens
+Date of Test: 2026-06-23 14:22:26
+Bubble Sort Time: 4.345620 seconds
+Quick Sort Time: 0.009979 seconds
+
